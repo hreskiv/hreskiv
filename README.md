@@ -6,7 +6,7 @@ I run MikroTik training courses at [mtik.pl](https://mtik.pl) (Poland) and [mtik
 
 ### What I do
 
-- MikroTik training — all 10 certifications (MTCNA → MTCSWE)
+- MikroTik training — all certifications (MTCNA → MTCSWE)
 - Network architecture & consulting
 - Building tools for network engineers
 
